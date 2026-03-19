@@ -1,6 +1,8 @@
 # esp32-space-drop
 Space Drop Game (by Chad Kapper) ported to ESP32
 
+![breadboard](images/esp32_space_drop_breadboard-sm.png)
+
 ## Hardware Setup
 
 - ESP32S3 or similar XIAO board
