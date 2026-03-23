@@ -11,6 +11,19 @@ Space Drop Game (by Chad Kapper) ported to ESP32
 - 10k pot A0 (connect wiper of pot to A0, other two pins to GND and VCC)
 - buzzer/speaker D8 (connect with a series resistor around 100-220ohm)
 
+## Parts List
+
+**Reference**|**Value**|**Package**
+:-----:|:-------------:|:-------------:
+C1|0.1uF|Cer. Capacitor
+R1|220|Resistor
+R2|10K|Resistor
+SP1|8-32ohm|12mm
+SW1|SPST|BF-6
+VR1|10K|3-pin
+MCU|Seeed ESP32S3|custom
+OLED|128x64 pixels,I2C|0.96in
+
 ## Software Setup
 
 Add the sketch to your Arduino IDE.
