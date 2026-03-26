@@ -22,7 +22,7 @@ SP1|8-32ohm|12mm
 SW1|SPST|BF-6
 VR1|10K|3-pin
 MCU|Seeed ESP32S3|custom
-OLED|128x64 pixels,I2C|0.96in
+OLED|128x64 pixels,I2C|1.3in
 
 ## Software Setup
 
